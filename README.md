@@ -24,7 +24,7 @@ I use the ETL Character Database which contains numerous handwritten characters,
 
 For the time being I only used the ETL8G dataset, which contains the 881 most commonly used Kanji (and 75 additional Hiragana) written by 160 different people. Each image consists of 128(X-axis size) * 127(Y-axis size) pixels, and each pixel is encoded on 4bit (16 gray level) [3]
 
-Also I want to highlight, that my solution heavily depends on an other solution, but even if some code is similar, I did more research, changed, fixed and simplified plenty of things. [4]
+Also I want to highlight, that my solution heavily depends on some other solutions (linked at the references), but even if some code is similar, I did more research, changed, fixed and simplified plenty of things. [4]
 
 ## Plans for the semester
 ### Milestone 1
