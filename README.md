@@ -41,6 +41,10 @@ Some example is shown below. We have the actual Kanji, a corresponding image ext
 ### Milestone 2
 Creating and training a neural network.
 
+CNN model is constructed and trained. Data-augmentation is also used. The training process is relatively slow (takes about half an hour), but even after 5 minutes we are able to reach 95% accuracy. At the end of the training process usually between 98% and 99%, so the results are promising so far.
+
+While evaluating the results, I checked the misclassified elements, to find out that the predicted characters are looking really similar to the ground truth, sometimes they are differ only by one stroke. 
+
 ### Milestone 3
 Fine tuning the solution, adding the option to draw a Kanji on a canvas, and recognize it in real-time.
 
