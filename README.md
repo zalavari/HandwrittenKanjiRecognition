@@ -53,6 +53,7 @@ I plotted the confusion matrix, but that is not very informative, because we hav
 
 I created a proof-of-concept application, where you can draw a character on a canvas, and it will be guessed by the computer in real-time, which was the character drawn. I used some HTML and JavaScript, but it is currently working only from the Colab environment.
 
+![image](https://user-images.githubusercontent.com/43651931/117876040-2c71c900-b2a3-11eb-8893-f5269dcaff75.png)
 
 ## References
 
